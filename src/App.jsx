@@ -15,11 +15,11 @@ export default function App() {
         <BrowserRouter>
           <DocumentHead
             title="Rasmus Wenngren Portfolio"
-            description="Your digital stable management solution"
-            ogTitle="Stablemate"
-            ogDescription="Your digital stable management solution"
-            ogUrl="https://stablemateapp.com/"
-            ogImage="https://stablemateapp.com/wp-content/uploads/2024/11/stablemate-1.jpg"
+            description="Personal portfolio website showcasing my work and projects"
+            ogTitle="Rasmus Wenngren Portfolio"
+            ogDescription="Personal portfolio website showcasing my work and projects"
+            ogUrl="https://rasmuswenngren.github.io/"
+            ogImage="https://rasmuswenngren.github.io/icons/icon-512x512.png"
             ogType="website"
           />
 
